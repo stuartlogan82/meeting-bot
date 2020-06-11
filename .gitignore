@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+gcalAppCreds.json
+token.pickle
+.flaskenv
